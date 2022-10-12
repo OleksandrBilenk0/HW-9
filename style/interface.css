@@ -36,6 +36,7 @@ a.interface_learn_more {
 .interface {
     height: 700px;
 }
+}
 
 @media (max-width: 1300px) {
 .interface {
@@ -63,10 +64,12 @@ a.interface_learn_more {
 .interface {
     height: 550px;
 }
+}
 
 @media (max-width: 1020px) {
 .interface {
     height: 500px;
+}
 }
 
 @media (max-width: 960px) {
