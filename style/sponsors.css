@@ -1,0 +1,19 @@
+.sponsors {
+    width: 100%;
+    height: 278px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sponsors_title {
+    margin: 57px 0 58px ;
+    color: #333333;
+}
+
+.sponsors_logo {
+    width: 1081px;
+    height: 58px;
+    display: flex;
+    justify-content: space-between;
+}
