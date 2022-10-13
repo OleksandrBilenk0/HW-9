@@ -98,7 +98,7 @@ button.slick-prev, .slick-next {
 
 @media (max-width: 400px) { 
 .slick-prev {
-    margin-left: px;
+    margin-left: 40px;
 }
 
 .slick-prev:before, .slick-next:before {
