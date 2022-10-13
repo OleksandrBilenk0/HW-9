@@ -49,7 +49,7 @@
     margin-left: 39%;
 }
 
-/* header media */
+/****** header media ******/
 
 @media (max-width: 720px) {
 .header {
@@ -82,6 +82,8 @@
     margin: 33px 0 50px;
 }
 }
+
+/****** header media mobile ******/
 
 @media (max-width: 520px) {
 .intro_inner {

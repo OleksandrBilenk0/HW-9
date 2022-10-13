@@ -73,3 +73,36 @@ button.slick-prev, .slick-next {
     color: #00ADEE !important;
     z-index: 9;
 }
+
+/****** fcoments media 720/mobile ******/
+
+@media (max-width: 720px) { 
+.slick-prev {
+    margin-left: 115px;
+}
+
+.slick-prev:before, .slick-next:before {
+    margin-left: -150px;
+}
+}
+
+@media (max-width: 450px) { 
+.slick-prev {
+    margin-left: 70px;
+}
+
+.slick-prev:before, .slick-next:before {
+    margin-left: -110px;
+}
+} 
+
+@media (max-width: 400px) { 
+.slick-prev {
+    margin-left: px;
+}
+
+.slick-prev:before, .slick-next:before {
+    margin-left: -80px;
+}
+} 
+

@@ -180,6 +180,8 @@ p {
 }
 }
 
+/******* experience media 720 ******/
+
 @media (max-width: 720px) {
 .experience {
     height: 592px;
@@ -310,9 +312,11 @@ p {
 }
 
 .video_match:hover {
-    width: 300px;
+    width: 330px;
 }
 }
+
+/******* experience media mobile******/
 
 @media (max-width: 360px) {
 .experience {
@@ -325,10 +329,11 @@ p {
 }
 
 h3 {
-    margin-bottom: 27px;
+    margin-top: 30px;
+    margin-bottom: 17px;
 }
 h2 {
-    margin-bottom: 35px;
+    margin-bottom: 5px;
 }
 a.learn_more {
     margin-top: 20px;
